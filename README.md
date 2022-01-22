@@ -1,4 +1,4 @@
 # prueba1
 configuracion
 
-autor rc
+autor rcofre
